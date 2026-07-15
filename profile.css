@@ -1,0 +1,10 @@
+.profile-photo {
+  display: block;
+  width: min(100%, 300px);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 30%;
+  margin-top: 2rem;
+  border: 8px solid var(--accent);
+  box-shadow: 12px 12px 0 var(--dark);
+}
