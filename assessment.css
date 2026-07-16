@@ -1,0 +1,5 @@
+.pplg-intro { color: var(--muted); max-width: 34rem; margin: 1.5rem 0 0; }
+.showcase-section { background: #fff; }
+.showcase-list { max-width: 900px; margin: 2.5rem 0 0; padding-left: 1.35rem; }
+.showcase-list li { padding: .65rem 0 .65rem .4rem; border-bottom: 1px solid var(--line); }
+.showcase-list strong { color: var(--dark); }
